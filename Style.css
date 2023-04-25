@@ -1,4 +1,56 @@
 .logo{
-    max-width: 350px;
-    height: auto;
+    max-width: 280px;
+    height: 30%;
+    display: inline-block;
+    vertical-align: middle;
 }
+
+.main{
+    padding: 1%;
+    display: flex;
+    width: 100%;
+    align-items: center;
+
+}
+
+li{
+    display: inline;
+    margin-right: 10px; /* Agrega un margen derecho entre elementos */
+}
+
+ul{
+    list-style: none; /* Elimina los puntos de la lista */
+    padding: 0;
+    margin: 0;
+    border: solid 1px red;
+}
+
+.navbar-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex: 1;
+}
+
+.navbar-nav li {
+    text-transform: uppercase;
+}
+
+.logo-container{
+    width: 28%;
+}
+
+.navbar-nav {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    max-width: 70%;
+    font-family: "Poppins", serif !important;
+}
+
+.my-auto {
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+  
+  
