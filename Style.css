@@ -1,0 +1,23 @@
+logo{
+    display: inline-block;
+    max-height: 80px;
+    width: auto;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.align-items-lg-center {
+    align-items: center !important;
+}
+
+.custom-logo-link {
+    display: inline-block;
+    padding-right: 1em;
+    vertical-align: middle;
+    width: auto;
+}
