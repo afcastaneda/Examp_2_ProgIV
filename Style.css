@@ -46,6 +46,7 @@ ul{
     display: inline-block;
     max-width: 70%;
     font-family: "Poppins", serif !important;
+    font-weight: bold;
 }
 
 .my-auto {
