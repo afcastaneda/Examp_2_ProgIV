@@ -98,10 +98,21 @@ h2{
 }
 
 .miniLogoDiv{
-    padding: 200px 50px 100px 150px;
+    height: 400px;
+    justify-content: center;
     background-color: #333;
     text-align: center;
     display: flex;
+}
+
+.miniLogoDiv2{
+    height: 400px;
+    background-image: url("Examen 3/Background2.jpg");
+    text-align: center;
+    display: flex;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
 }
 
 .miniLogo2 {
