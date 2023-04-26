@@ -96,5 +96,22 @@ h2{
     transform-origin: 50% 50%;
     visibility: visible;
 }
-  
+
+.miniLogoDiv{
+    padding: 200px 50px 100px 150px;
+    background-color: #333;
+    text-align: center;
+    display: flex;
+}
+
+.miniLogo2 {
+    width: 20%;
+    display: block;
+    margin: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+
   
