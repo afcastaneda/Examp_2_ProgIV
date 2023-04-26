@@ -1,3 +1,12 @@
+body {
+    color: #787878;
+    font-weight: 400;
+    font-size: 16px;
+    font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
+    line-height: 27px;
+    overflow-x: hidden;
+}
+
 .logo{
     max-width: 280px;
     height: 30%;
@@ -15,7 +24,7 @@ ul{
     list-style: none; /* Elimina los puntos de la lista */
     padding: 0;
     margin: 0;
-    border: solid 1px red;
+    /*border: solid 1px red;*/
 }
 
 .navbar-container {
@@ -42,6 +51,7 @@ ul{
     font-family: "Poppins", serif !important;
     font-weight: bold;
     margin-top: 30px;
+    color: black;
 }
 
 .my-auto {
@@ -59,7 +69,32 @@ ul{
 
 h1{
     color: white;
+    font-family: Montserrat, sans-serif;
+    max-height: none;
+    max-width: none;
+    text-align: center;
+    letter-spacing: 4.8125px;
+    line-height: 77px;
+    font-weight: 800;
+    font-size: 77px;
+    
 }
-  
+
+h2{
+    z-index: 10;
+    font-family: "Playfair Display";
+    height: auto;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    white-space: normal;
+    min-height: 0px;
+    min-width: 0px;
+    line-height: 48px;
+    letter-spacing: 3.85px;
+    font-weight: 400;
+    font-size: 48px;
+    transform-origin: 50% 50%;
+    visibility: visible;
+}
   
   
