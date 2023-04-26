@@ -49,13 +49,17 @@ ul{
     margin-bottom: auto;
 }
 
-.backgroundImage{
-    background-image: url("Examen 3/Background1.jpg");
+.backgroudImage2 {
+    background-image: url('Examen 3/Background1.jpg');
     background-size: cover;
+    background-position: center;
     text-align: center;
-    padding: 50px;
-    clear: both;
-    display: none;
+    padding: 180px;
 }
+
+h1{
+    color: white;
+}
+  
   
   
